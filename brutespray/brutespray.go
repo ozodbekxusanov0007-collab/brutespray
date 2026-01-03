@@ -1,5 +1,4 @@
-package brutespray
-
+package  brutespray
 import (
 	"flag"
 	"fmt"
